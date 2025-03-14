@@ -82,7 +82,7 @@ En este [Canva](https://www.canva.com/design/DAGgM8dB9g8/n4RiMeSUldtrkBY_Hf3SjA/
 Esperamos que este proyecto  sea de gran utilidad. Estamos abiertas a cualquier sugerencia o colaboración.
 
 ----
-☕ENGLISH 
+🇬🇧ENGLISH 
 ---
 
 # **T1INSIGHT**  
