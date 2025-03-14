@@ -1,7 +1,7 @@
 ☕ ENGLISH BELOW
 
 # **T1INSIGHT** 
-# ***🎙️El próximo artista revelación de Eurovisión🎙️***
+# ***🎙️El próximo artista revelación de Eurovisión***
 Por: Cibele Busnello, Isabel Garcia, Andrea Gauger, Amanda Hernandez, Diana P. Gómez
 
 # **🎯Objetivo del Proyecto:**
@@ -86,7 +86,7 @@ Esperamos que este proyecto  sea de gran utilidad. Estamos abiertas a cualquier 
 ---
 
 # **T1INSIGHT**  
-# ***🎙️The Next Breakout Artist of Eurovision🎙️***
+# ***🎙️The Next Breakout Artist of Eurovision***
 By: Cibele Busnello, Isabel Garcia, Andrea Gauger, Amanda Hernandez, Diana P. Gómez  
 
 # **🎯Project Objective:**  
