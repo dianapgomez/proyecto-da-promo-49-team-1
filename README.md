@@ -63,6 +63,8 @@ En este repositorio encontrarás el archivo Jupiter Notbook y dos carpetas. El a
 
 El archivo Jupiter Notebook (project-execution) contiene todo el código necesario para llamar a las API de Spotify, LastFm y Eurovision, pero el usuario deberá registrarse en las páginas web de solicitud de API de [Spotify](https://developer.spotify.com/documentation/web-api) y [LastFM](https://www.last.fm/api) para obtener un API ID y un API Key.
 
+Es necesario crearse un servidor local de MySQL y añadir las credenciales en el código.
+
 Una vez se corra el código se crearán 4 csv con la data extraída, pero a la hora de hacer la importación a SQL el código toma los csv limpios que hay en la carpeta csv_clean. 
 
 En la carpeta queries el usuario encontrará un script .sql con las consultas realizadas para desarrollar el proyecto. 
@@ -86,7 +88,7 @@ Esperamos que este proyecto  sea de gran utilidad. Estamos abiertas a cualquier 
 ---
 
 # **T1INSIGHT**  
-# ***🎙️The Next Breakout Artist of Eurovision***
+# ***🎙️The Next Breakout Artist of Eurovision🎙️***
 By: Cibele Busnello, Isabel Garcia, Andrea Gauger, Amanda Hernandez, Diana P. Gómez  
 
 # **🎯Project Objective:**  
